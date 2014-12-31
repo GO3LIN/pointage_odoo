@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="401f4d69-f72e-4a2c-acc1-0a92c25ce039" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:6541/odooWS.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="odooWS1.xsd" MetadataType="Schema" ID="304292ef-ee43-43fc-99d8-ec70d465d064" SourceId="1" SourceUrl="http://localhost:6541/odooWS.svc?xsd=xsd1" />
+    <MetadataFile FileName="odooWS.disco" MetadataType="Disco" ID="12967dbf-03ff-4253-aae3-4e2a1fc353ce" SourceId="1" SourceUrl="http://localhost:6541/odooWS.svc?disco" />
+    <MetadataFile FileName="odooWS.wsdl" MetadataType="Wsdl" ID="5bf8a1f7-805a-473b-a7b5-2e2d59a8a3a7" SourceId="1" SourceUrl="http://localhost:6541/odooWS.svc?wsdl" />
+    <MetadataFile FileName="odooWS1.wsdl" MetadataType="Wsdl" ID="1a30660c-07fa-4a1b-9e39-115a3a99527c" SourceId="1" SourceUrl="http://localhost:6541/odooWS.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="odooWS.xsd" MetadataType="Schema" ID="19d2c77f-eee4-41ab-adae-430ef1aa7bea" SourceId="1" SourceUrl="http://localhost:6541/odooWS.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Pointage_0._1.odooWS" CodeBehind="odooWS.svc.cs" %>

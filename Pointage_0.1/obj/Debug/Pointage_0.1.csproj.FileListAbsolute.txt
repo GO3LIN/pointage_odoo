@@ -1,0 +1,11 @@
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\bin\Pointage_0.1.dll.config
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\bin\Pointage_0.1.dll
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\bin\Pointage_0.1.pdb
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\bin\CookComputing.XmlRpcV2.pdb
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\obj\Debug\Pointage_0.1.dll
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\obj\Debug\Pointage_0.1.pdb
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\bin\EntityFramework.dll
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\bin\System.Data.Entity.Repository.dll
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\bin\EntityFramework.xml
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\obj\Debug\Pointage_0.1.csprojResolveAssemblyReference.cache

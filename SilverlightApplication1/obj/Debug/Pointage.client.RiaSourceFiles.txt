@@ -1,0 +1,1 @@
+C:\Users\Username\Documents\Visual Studio 2013\Projects\Pointage_0.1\Pointage_0.1\Pointage_0.1.csproj,635555879170873934,DC.designer.cs,odooWS.svc.cs,Properties\AssemblyInfo.cs,

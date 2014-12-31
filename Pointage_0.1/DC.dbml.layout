@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DC">
+  <DataContextMoniker Name="/DCDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7dd21faa-aed4-47b4-af77-63a691b299e2" absoluteBounds="5.125, 1.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DCDataContext/pointage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="54b122ad-697d-4722-8cb8-cfc533b67a3f" absoluteBounds="5.14, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d446d62-3150-45f7-a117-4e7ba4e62b58" absoluteBounds="2.375, 1.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DCDataContext/pointage_log" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e46c04a1-e840-43cb-9d62-6579e5ef98af" absoluteBounds="2.39, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
